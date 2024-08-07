@@ -10,6 +10,8 @@ Extremely basic task, println! for the win.
 Immediately humbling afte exercise 1. 
 The module structure of the exercises is still not completely clear to me, but the same is true for project structure in general in rust for me.
 Have to keep grinding.
+After banging my head for one evening, the solution was way easier than I initially thought.
+Simplicity > Complexity;
 
 3-clock
 4-anagram
