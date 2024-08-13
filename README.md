@@ -7,13 +7,16 @@ Complete track viewable at: https://exercism.org/tracks/rust
 Extremely basic task, println! for the win.
 
 2-gigasecond
-Immediately humbling afte exercise 1. 
+Immediately humbling after exercise 1. 
 The module structure of the exercises is still not completely clear to me, but the same is true for project structure in general in rust for me.
 Have to keep grinding.
 After banging my head for one evening, the solution was way easier than I initially thought.
 Simplicity > Complexity;
 
 3-clock
+I was not able to resolve the numerous comand line errors I was getting, so I decided to move on to the next exercise for now.
+I will come back to this one later.
+
 4-anagram
 5-space_age
 6-sublist
