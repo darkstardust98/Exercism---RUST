@@ -18,6 +18,12 @@ I was not able to resolve the numerous comand line errors I was getting, so I de
 I will come back to this one later.
 
 4-anagram
+I think I am starting to get the hang of the module structure of the exercises. Still a lot of errors are popping up and I am not sure how to resolve them.
+I will keep grinding.
+
+
+
+
 5-space_age
 6-sublist
 7-minesweeper
