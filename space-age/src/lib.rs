@@ -2,7 +2,9 @@
 // In order to pass the tests you can add-to or change any of this code.
 
 #[derive(Debug)]
-pub struct Duration;
+pub struct Duration {
+    seconds: u64,
+};
 
 impl From<u64> for Duration {
     fn from(s: u64) -> Self {
